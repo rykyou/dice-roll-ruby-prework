@@ -5,3 +5,5 @@
 def roll
   rand(1..6)
 end
+
+choices = [1, 2, 3, 4, 5, 6]
